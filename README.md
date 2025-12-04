@@ -98,15 +98,16 @@ ACL = 1 + RF/R1
 ---
 
 ## CIRCUIT DIAGRAM
-
-
-<img width="704" height="397" alt="image" src="https://github.com/user-attachments/assets/1b4b170f-cf21-4fa9-9dc7-96db30b3c153" />
+![circuit](https://github.com/user-attachments/assets/64abaab4-d1a6-46d9-ae46-4169c07ab0d5)
 
 ---
 
 ## MODEL GRAPH
+![mg](https://github.com/user-attachments/assets/0cbf31f2-04ac-47ec-9109-283c04cf389f)
 
-<img width="456" height="340" alt="image" src="https://github.com/user-attachments/assets/00c7aaec-b4d8-414e-afa3-e985eb3dd902" />
+---
+## DESIGN
+![DES](https://github.com/user-attachments/assets/e3a34670-24f5-4de3-963c-e2f3250a2bc6)
 
 ---
 PROCEDURE:
@@ -120,16 +121,11 @@ PROCEDURE:
 7. Plot the input vs. output waveform for one practical case.
 
 ## TABULATION
-
-| S.No | Vin (V) | Time (ms) | Vo = Vin[1 + (Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![20251203_195001](https://github.com/user-attachments/assets/96a4317f-b177-43d2-a981-07e74f0db612)
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
+![20251203_195143](https://github.com/user-attachments/assets/632c9adf-c092-40a1-bfca-824f107b8f3b)
 
 ---
 ## DIFFERENTIAL AMPLIFIER
