@@ -190,8 +190,14 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
  
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
+![20251203_210400](https://github.com/user-attachments/assets/a03225ea-af8f-476d-87ad-b2cd4aa7b32b)
 
-<img width="1006" height="1087" alt="image" src="https://github.com/user-attachments/assets/636c08f9-7940-470e-a89e-4891d57a9ac7" />
+## MODEL GRAPH
+![20251203_210807](https://github.com/user-attachments/assets/980f91eb-6bb2-419f-b68d-5fb6e708eddc)
+
+## DESIGN
+![20251203_210904](https://github.com/user-attachments/assets/6a504f7d-49a8-47a6-8f2b-00dc06af79b6)
+![20251203_210851](https://github.com/user-attachments/assets/0e516e57-93fe-4d5b-a489-69055af8ae33)
 
 PROCEDURE:
 
@@ -206,19 +212,17 @@ PROCEDURE:
 ---
 
 ## TABULATION (Instrumentation Amplifier)
-
-| S.No | V1 (V) | V2 (V) | Vo = (Rf / R1) [1 + (2R’ / R)] (V2 – V1) (V) | Theoretical | Practical |
-|------|---------|---------|----------------------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+![20251203_210835](https://github.com/user-attachments/assets/ba2a6d05-de63-4069-8810-194cb8fb9e72)
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
+![20251203_210904](https://github.com/user-attachments/assets/82aa4f09-c90a-4111-b234-11a5bc037595)
 
 ---
 ## RESULT
+![20251203_211119](https://github.com/user-attachments/assets/31b7aed5-0ddb-44ab-a23e-b74a3e853140)
+![20251203_211103](https://github.com/user-attachments/assets/71709796-82ac-4b2a-8766-a8d14a6acd51)
+
 Thus, the **Inverting**, **Non-Inverting**, **Differential**, and **Instrumentation Amplifiers** were designed and their performance successfully tested using Op-Amp IC 741.
 
 ---
