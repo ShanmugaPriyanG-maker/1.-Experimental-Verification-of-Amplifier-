@@ -196,7 +196,8 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 ![20251203_210807](https://github.com/user-attachments/assets/980f91eb-6bb2-419f-b68d-5fb6e708eddc)
 
 ## DESIGN
-![20251203_210904](https://github.com/user-attachments/assets/6a504f7d-49a8-47a6-8f2b-00dc06af79b6)
+![20251203_210845](https://github.com/user-attachments/assets/3e4ec66c-4313-4b12-8b5e-0f8893f18214)
+
 ![20251203_210851](https://github.com/user-attachments/assets/0e516e57-93fe-4d5b-a489-69055af8ae33)
 
 PROCEDURE:
