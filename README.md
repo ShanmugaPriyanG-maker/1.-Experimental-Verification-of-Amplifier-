@@ -190,12 +190,15 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
  
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
+
 ![20251203_210400](https://github.com/user-attachments/assets/a03225ea-af8f-476d-87ad-b2cd4aa7b32b)
 
 ## MODEL GRAPH
+
 ![20251203_210807](https://github.com/user-attachments/assets/980f91eb-6bb2-419f-b68d-5fb6e708eddc)
 
 ## DESIGN
+
 ![20251203_210845](https://github.com/user-attachments/assets/3e4ec66c-4313-4b12-8b5e-0f8893f18214)
 
 ![20251203_210851](https://github.com/user-attachments/assets/0e516e57-93fe-4d5b-a489-69055af8ae33)
@@ -213,14 +216,19 @@ PROCEDURE:
 ---
 
 ## TABULATION (Instrumentation Amplifier)
+
 ![20251203_210835](https://github.com/user-attachments/assets/ba2a6d05-de63-4069-8810-194cb8fb9e72)
 
 ---
+
 ## OUT PUT WAVEFORM AND DISCUSSION 
+
 ![20251203_210904](https://github.com/user-attachments/assets/82aa4f09-c90a-4111-b234-11a5bc037595)
 
 ---
+
 ## RESULT
+
 ![20251203_211119](https://github.com/user-attachments/assets/31b7aed5-0ddb-44ab-a23e-b74a3e853140)
 ![20251203_211103](https://github.com/user-attachments/assets/71709796-82ac-4b2a-8766-a8d14a6acd51)
 
