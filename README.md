@@ -54,10 +54,10 @@ CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
 ![20251203_193945](https://github.com/user-attachments/assets/a55be93a-3b20-4f6f-8dcd-928ae2cbc37b)
 
 MODEL GRAPH 
-![20251203_193908](https://github.com/user-attachments/assets/5a3c0f0d-7fb8-412b-a648-dd503692ddff)
+![20251203_193908](https://github.com/user-attachments/assets/e428d7a6-6ec3-4347-bcde-b7a010eccba1)
 
 DESIGN:
-![20251203_193908](https://github.com/user-attachments/assets/b32a4171-639f-4c40-877a-5d8ebfb1c38d)
+![20251203_194023](https://github.com/user-attachments/assets/075bae95-300e-4f96-ab0e-9a55b873eb5b)
 
 Inverting amplifier:
 
@@ -79,18 +79,11 @@ Inverting amplifier:
 
 
 ## TABULATION
-
-| S.No | Vin (V) | Time (ms) | Vo = Vin[-(Rf / R1)] (V) | Theoretical | Practical |
-|------|----------|-----------|------------------------------|--------------|------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |			
- 
-
+![20251203_194113](https://github.com/user-attachments/assets/ec682b26-9df8-4ed1-9c32-2fdb0513ba75)
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
+![20251203_194416](https://github.com/user-attachments/assets/91ba8e43-995a-4274-ae01-87169b925588)
 
 ---
 ### **Non-Inverting Amplifier**
